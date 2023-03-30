@@ -19,7 +19,6 @@ public class Task5 {
                 in.append(datum);
             }
             System.out.println("File recorded!");
-            throw new IOException("Error");
         } catch (IOException e) {
             LOG.log(Level.INFO,e.getMessage());
             throw new RuntimeException(e);

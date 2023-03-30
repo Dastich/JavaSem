@@ -1,2 +1,26 @@
 мар. 28, 2023 10:38:58 PM seminar2.Task5 write
 INFO: Error
+мар. 30, 2023 9:59:47 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: [I@b1bc7ed
+мар. 30, 2023 9:59:47 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: [I@b1bc7ed
+мар. 30, 2023 10:03:30 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 1535728139212722
+мар. 30, 2023 10:03:30 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: [I@573fd745
+мар. 30, 2023 10:05:21 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 72827018141717418
+мар. 30, 2023 10:05:21 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 04714171718182728
+мар. 30, 2023 10:09:42 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 17425122228016210
+мар. 30, 2023 10:09:42 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 02410121617222528
+мар. 30, 2023 10:10:03 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: [Ljava.lang.String;@b1bc7ed
+мар. 30, 2023 10:10:03 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 12478810212629
+мар. 30, 2023 10:12:40 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 10827236231912225
+мар. 30, 2023 10:12:40 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 16810192223232527
