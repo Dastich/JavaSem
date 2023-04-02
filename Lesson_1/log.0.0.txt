@@ -24,3 +24,27 @@ INFO: 12478810212629
 INFO: Массив до изменения: 10827236231912225
 мар. 30, 2023 10:12:40 PM seminar2.HW.tasks.Task1 bubbleSort
 INFO: 16810192223232527
+апр. 02, 2023 12:29:23 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 19112301924176022
+апр. 02, 2023 12:29:23 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 00611171919222324
+апр. 02, 2023 12:30:30 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 27241521194861121
+апр. 02, 2023 12:30:31 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 46811151921212427
+апр. 02, 2023 12:31:22 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 1624316213162628
+апр. 02, 2023 12:31:22 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 2336161616212428
+апр. 02, 2023 12:31:56 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 151719131029590
+апр. 02, 2023 12:31:56 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 015791013151929
+апр. 02, 2023 12:34:14 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 221926151828962722
+апр. 02, 2023 12:34:14 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 691518192222262728
+апр. 02, 2023 12:40:18 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 115195281522232118
+апр. 02, 2023 12:40:18 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 151515181921222328
