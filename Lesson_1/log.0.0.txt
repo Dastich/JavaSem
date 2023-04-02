@@ -48,3 +48,7 @@ INFO: 691518192222262728
 INFO: Массив до изменения: 115195281522232118
 апр. 02, 2023 12:40:18 PM seminar2.HW.tasks.Task1 bubbleSort
 INFO: 151515181921222328
+апр. 02, 2023 9:56:31 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: Массив до изменения: 2592323014239158
+апр. 02, 2023 9:56:31 PM seminar2.HW.tasks.Task1 bubbleSort
+INFO: 0899141523232325
